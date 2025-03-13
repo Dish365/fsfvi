@@ -9,7 +9,7 @@ import ghanaCocoaData from "@/data/ghana-cocoa-data";
 import { calculateAllMetrics } from "@/lib/fsfvi-calculator";
 
 export default function Home() {
-  const [allocations, setAllocations] = useState<Record<string, number>>({});
+  const [allocations] = useState<Record<string, number>>({});
   
   // Calculate metrics
   const metrics = calculateAllMetrics(ghanaCocoaData, allocations);

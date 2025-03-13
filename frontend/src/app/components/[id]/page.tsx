@@ -7,7 +7,6 @@ import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/com
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import ghanaCocoaData from "@/data/ghana-cocoa-data";
 import { calculateAllMetrics } from "@/lib/fsfvi-calculator";
-import { notFound } from "next/navigation";
 import { useParams } from "next/navigation";
 
 // Server component that accepts the ID directly

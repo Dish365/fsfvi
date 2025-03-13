@@ -14,7 +14,7 @@ export default function OptimizationPage() {
   const [allocations, setAllocations] = useState<Record<string, number>>({});
   const [currentVulnerability, setCurrentVulnerability] = useState(0);
   const [optimizedVulnerability, setOptimizedVulnerability] = useState(0);
-  const [totalBudget, setTotalBudget] = useState(ghanaCocoaData.totalBudget);
+  const [totalBudget] = useState(ghanaCocoaData.totalBudget);
   const [totalAllocated, setTotalAllocated] = useState(0);
   
   // Initialize allocations with current values
@@ -86,7 +86,7 @@ export default function OptimizationPage() {
       });
     
     // Allocate budget proportionally to performance gap and weight
-    sortedComponents.forEach((component, index) => {
+    sortedComponents.forEach(component => {
       const gap = Math.abs(component.observedPerformance - component.benchmarkPerformance) / component.observedPerformance;
       const weight = component.weight;
       
