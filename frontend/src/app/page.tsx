@@ -53,7 +53,7 @@ export default function Home() {
           <div>
             <h1 className="text-3xl font-bold tracking-tight">Ghana Cocoa Value Chain Dashboard</h1>
             <p className="mt-2 text-slate-600">
-              Food System Food Value Index (FSFVI) analysis and vulnerability assessment
+              Food System Financing Vulnerability Index (FSFVI) analysis and vulnerability assessment
             </p>
           </div>
           <DashboardExplanation 

@@ -51,7 +51,7 @@ export function DashboardExplanation({
           <h2 className="text-xl font-semibold mb-2">Dashboard Explanation</h2>
           <p>
             This dashboard provides a comprehensive analysis of Ghana's cocoa value chain 
-            using the Food System Food Value Index (FSFVI) methodology. It presents key 
+            using the Food System Financing Vulnerability Index (FSFVI) methodology. It presents key 
             vulnerability metrics, resource allocation, and performance gaps to help identify 
             areas for improvement in the cocoa sector.
           </p>
@@ -110,6 +110,92 @@ export function DashboardExplanation({
             <li>Computes system vulnerability as a weighted sum of component vulnerabilities (FSFVI = Σωᵢ·νᵢ(fᵢ))</li>
             <li>Allows for optimization of resource allocation to minimize vulnerability (Min Σωᵢ·νᵢ(fᵢ) subject to Σfᵢ ≤ F)</li>
           </ol>
+
+          <p className="mt-4">
+            The FSFVI aggregates the vulnerabilities of all n components, weighted by their relative importance (ωᵢ):
+          </p>
+          <div className="my-3 pl-5 font-medium">
+            FSFVI = Σᵢ₌₁ⁿ ωᵢ · νᵢ(fᵢ)
+          </div>
+          <p>
+            where ωᵢ represents the weight assigned to component i, reflecting its relative importance within the food system. 
+            Components that play a critical role in food system outcomes, such as those linked to food security or sustainability, 
+            are typically assigned higher weights.
+          </p>
+
+          <h4 className="text-base font-medium mt-4">Key insights from the FSFVI</h4>
+          <ul className="mt-2 space-y-2 pl-5">
+            <li>
+              <strong>Component-level vulnerability:</strong> The term νᵢ(fᵢ) provides a granular view of the vulnerability of individual 
+              components that considers their performance gaps (δᵢ) and the impact of financial investments (fᵢ).
+            </li>
+            <li>
+              <strong>System-level vulnerability:</strong> The aggregated FSFVI quantifies the overall vulnerability of the food system, 
+              allowing for an assessment of its resilience to financial shocks and stressors.
+            </li>
+            <li>
+              <strong>Weighting for importance:</strong> By incorporating weights (ωᵢ), the FSFVI ensures that critical components 
+              contribute proportionally to the overall vulnerability measure, reflecting their systemic significance.
+            </li>
+          </ul>
+
+          <h3 className="text-lg font-medium mt-5">Optimization</h3>
+          <p className="mt-2">
+            The FSFVI framework operates under specific constraints to ensure its practical applicability and alignment
+            with real-world financial and systemic considerations. These constraints are essential for guiding the allocation
+            of financial resources while maintaining a focus on reducing system-wide vulnerability.
+          </p>
+          
+          <h4 className="text-base font-medium mt-3">Budget constraint</h4>
+          <div className="my-2 pl-5 font-medium">
+            Σⁿᵢ₌₁ fᵢ ≤ F
+          </div>
+          <p>
+            where fᵢ represents the financial resources allocated to component i, and F is the total available financial
+            budget for allocation.
+          </p>
+          <p className="mt-1">
+            The budget constraint ensures that the sum of allocated resources across all n components does not exceed
+            the total financial resources available. This constraint reflects the real-world limitation of finite budgets and
+            necessitates strategic prioritization of resource distribution to achieve the greatest impact on reducing system vulnerability.
+          </p>
+
+          <h4 className="text-base font-medium mt-3">Non-negativity constraint</h4>
+          <div className="my-2 pl-5 font-medium">
+            fᵢ ≥ 0, ∀i
+          </div>
+          <p>
+            This constraint ensures that financial allocations are non-negative, meaning no component can receive a
+            negative allocation of resources. This is a fundamental assumption in financial modeling and reflects the
+            practical reality that resources cannot be "removed" from components as part of the allocation process.
+          </p>
+
+          <h4 className="text-base font-medium mt-3">Prioritization rule</h4>
+          <div className="my-2 pl-5 font-medium">
+            fᵢ ≥ fⱼ if δᵢ ≥ δⱼ
+          </div>
+          <p>
+            where δᵢ is the relative performance gap of component i, and δⱼ is the relative performance gap of component j.
+          </p>
+          <p className="mt-1">
+            This prioritization rule ensures that components with larger performance gaps (δᵢ) are allocated at least as
+            much financial support as those with smaller gaps (δⱼ). This aligns with the principle of targeting resources
+            toward the most vulnerable components to maximize the impact of financial investments. The rule reflects
+            the need to address disparities in vulnerability across components, ensuring that funding is directed where it
+            is most urgently needed.
+          </p>
+
+          <h4 className="text-base font-medium mt-3">Optimized financial allocation</h4>
+          <div className="my-2 pl-5 font-medium">
+            Minimize: Σⁿᵢ₌₁ ωᵢ · νᵢ(fᵢ)
+          </div>
+          <p>
+            subject to budget and non-negativity constraints.
+          </p>
+          <p className="mt-1">
+            This ensures that financial resources are distributed efficiently to minimize the overall system vulnerability
+            while adhering to the total budget and ensuring that all allocations are non-negative.
+          </p>
         </div>
       </TabsContent>
 
