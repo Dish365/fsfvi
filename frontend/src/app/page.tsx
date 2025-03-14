@@ -7,6 +7,9 @@ import { ValueChainComponentTable } from "@/components/value-chain-component-tab
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import ghanaCocoaData from "@/data/ghana-cocoa-data";
 import { calculateAllMetrics } from "@/lib/fsfvi-calculator";
+import { Button } from "@/components/ui/button";
+import { InfoIcon } from "lucide-react";
+import { DashboardExplanation } from "@/components/dashboard-explanation";
 
 export default function Home() {
   const [allocations] = useState<Record<string, number>>({});
@@ -46,11 +49,21 @@ export default function Home() {
   return (
     <DashboardLayout>
       <div className="space-y-6">
-        <div>
-          <h1 className="text-3xl font-bold tracking-tight">Ghana Cocoa Value Chain Dashboard</h1>
-          <p className="mt-2 text-slate-600">
-            Food System Food Value Index (FSFVI) analysis and vulnerability assessment
-          </p>
+        <div className="flex justify-between items-center">
+          <div>
+            <h1 className="text-3xl font-bold tracking-tight">Ghana Cocoa Value Chain Dashboard</h1>
+            <p className="mt-2 text-slate-600">
+              Food System Food Value Index (FSFVI) analysis and vulnerability assessment
+            </p>
+          </div>
+          <DashboardExplanation 
+            trigger={
+              <Button variant="outline" className="gap-2">
+                <InfoIcon className="h-4 w-4" />
+                <span>Dashboard Guide</span>
+              </Button>
+            } 
+          />
         </div>
         
         {/* Key Metrics */}
@@ -140,6 +153,9 @@ export default function Home() {
             />
           </CardContent>
         </Card>
+        
+        {/* Dashboard Explanation Section */}
+        <DashboardExplanation renderAsSection={true} />
       </div>
     </DashboardLayout>
   );
