@@ -113,21 +113,6 @@ export function DashboardLayout({ children }: DashboardLayoutProps) {
                 </Link>
               </nav>
             </div>
-
-            {/* Add Prototype Explanation link */}
-            <div className="mt-6 space-y-1 px-3">
-              <h2 className="mb-2 px-4 text-lg font-semibold tracking-tight">
-                Documentation
-              </h2>
-              <nav className="flex flex-col gap-1">
-                <Link 
-                  href="/prototype-explanation" 
-                  className="rounded-md px-3 py-2 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
-                >
-                  Dashboard Guide
-                </Link>
-              </nav>
-            </div>
           </div>
         </aside>
         
