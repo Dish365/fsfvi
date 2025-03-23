@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { DashboardLayout } from "@/components/dashboard-layout";
+import { DashboardLayout } from "@/components/commodity-layout";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";

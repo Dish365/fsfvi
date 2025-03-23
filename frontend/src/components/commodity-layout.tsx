@@ -27,13 +27,19 @@ export function DashboardLayout({ children }: DashboardLayoutProps) {
               href="/" 
               className="text-sm font-medium text-slate-700 hover:text-slate-900"
             >
-              Dashboard
+              Home
             </Link>
             <Link 
-              href="/optimization" 
+              href="/commodity-level-dashboard/optimization" 
               className="text-sm font-medium text-slate-700 hover:text-slate-900"
             >
               Optimization
+            </Link>
+            <Link 
+              href="/system-level-dashboard" 
+              className="text-sm font-medium text-slate-700 hover:text-slate-900"
+            >
+              System Dashboard
             </Link>
             <Link 
               href="/analytics" 
@@ -56,19 +62,19 @@ export function DashboardLayout({ children }: DashboardLayoutProps) {
               </h2>
               <nav className="flex flex-col gap-1">
                 <Link 
-                  href="/government" 
+                  href="/commodity-level-dashboard/government" 
                   className="rounded-md px-3 py-2 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
                 >
                   Government Dashboard
                 </Link>
                 <Link 
-                  href="/investor" 
+                  href="/commodity-level-dashboard/investor" 
                   className="rounded-md px-3 py-2 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
                 >
                   Investor Interface
                 </Link>
                 <Link 
-                  href="/value-chain" 
+                  href="/commodity-level-dashboard/value-chain" 
                   className="rounded-md px-3 py-2 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
                 >
                   Value Chain Dashboard
@@ -82,31 +88,31 @@ export function DashboardLayout({ children }: DashboardLayoutProps) {
               </h2>
               <nav className="flex flex-col gap-1">
                 <Link 
-                  href="/components/production" 
+                  href="/system-level-dashboard/production" 
                   className="rounded-md px-3 py-2 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
                 >
                   Production
                 </Link>
                 <Link 
-                  href="/components/processing" 
+                  href="/system-level-dashboard/processing" 
                   className="rounded-md px-3 py-2 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
                 >
                   Processing
                 </Link>
                 <Link 
-                  href="/components/market-access" 
+                  href="/system-level-dashboard/market-access" 
                   className="rounded-md px-3 py-2 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
                 >
                   Market Access
                 </Link>
                 <Link 
-                  href="/components/infrastructure" 
+                  href="/system-level-dashboard/infrastructure" 
                   className="rounded-md px-3 py-2 text-sm text-slate-700 hover:bg-slate-100 hover:text-slate-900"
                 >
                   Infrastructure
                 </Link>
                 <Link 
-                  href="/components" 
+                  href="/system-level-dashboard/components" 
                   className="mt-2 rounded-md px-3 py-2 text-sm text-slate-500 hover:text-slate-700"
                 >
                   View All Components

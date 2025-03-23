@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { DashboardLayout } from "@/components/dashboard-layout";
+import { DashboardLayout } from "@/components/commodity-layout";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import ghanaCocoaData from "@/data/ghana-cocoa-data";
 import { calculateAllMetrics } from "@/lib/fsfvi-calculator";

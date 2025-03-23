@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { DashboardLayout } from "@/components/dashboard-layout";
+import { DashboardLayout } from "@/components/commodity-layout";
 import { VulnerabilityMetricCard } from "@/components/vulnerability-metric-card";
 import { ValueChainComponentTable } from "@/components/value-chain-component-table";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";

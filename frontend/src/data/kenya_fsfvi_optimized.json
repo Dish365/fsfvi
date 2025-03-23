@@ -1,0 +1,4695 @@
+{
+  "subsectors": {
+    "Environmental impacts": {
+      "name": "Environmental impacts",
+      "indicators": [
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 62399.8,
+          "benchmark": 83110.22,
+          "performanceGap": 0.3318988201885262
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 1205.5138,
+          "benchmark": 3001.2053,
+          "performanceGap": 1.4895652791365808
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 49.106873,
+          "benchmark": 35.627304,
+          "performanceGap": 0.27449454987695915
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 984.35626,
+          "benchmark": -42.99038,
+          "performanceGap": 1.0436735984185237
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 10.534202,
+          "benchmark": 56.100548,
+          "performanceGap": 4.325562202053844
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 62.19,
+          "benchmark": 48.811073,
+          "performanceGap": 0.21512987618588195
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 3.44,
+          "benchmark": 1.0948215,
+          "performanceGap": 0.6817379360465117
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 0.14794132,
+          "benchmark": 0.22971423,
+          "performanceGap": 0.5527388156331173
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 6.1140156,
+          "benchmark": 22.136595,
+          "performanceGap": 2.6206310955438186
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 53687.45,
+          "benchmark": 26654.816,
+          "performanceGap": 0.5035186808090159
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 90.86325,
+          "benchmark": 49.399456,
+          "performanceGap": 0.4563318393299821
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 0.18090001,
+          "benchmark": 3.3938584,
+          "performanceGap": 17.760963031455884
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 1.5785,
+          "benchmark": 1.3314655,
+          "performanceGap": 0.15649952486537855
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 2.282425,
+          "benchmark": 3.1254506,
+          "performanceGap": 0.36935522525384196
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 1.220075,
+          "benchmark": 0.90055376,
+          "performanceGap": 0.2618865561543348
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 5.250575,
+          "benchmark": 5.19145,
+          "performanceGap": 0.011260671450269877
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 0.47215,
+          "benchmark": 19.17308,
+          "performanceGap": 39.608027110028594
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 64.07,
+          "benchmark": 62.105766,
+          "performanceGap": 0.030657624473232257
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 0.6085919,
+          "benchmark": 2.6408045,
+          "performanceGap": 3.339204153062176
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 0.84499997,
+          "benchmark": 4.867729,
+          "performanceGap": 4.760626240022233
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 35.93,
+          "benchmark": 37.894234,
+          "performanceGap": 0.05466835513498462
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 1.02,
+          "benchmark": 3.2077005,
+          "performanceGap": 2.144804411764706
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": 0.84,
+          "benchmark": 2.9636364,
+          "performanceGap": 2.528138571428572
+        },
+        {
+          "projectName": "Africa Environmental Health and Pollution Management Project",
+          "matchScore": 76,
+          "expenditures": 0.165539776,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 62399.8,
+          "benchmark": 83110.22,
+          "performanceGap": 0.3318988201885262
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 1205.5138,
+          "benchmark": 3001.2053,
+          "performanceGap": 1.4895652791365808
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 49.106873,
+          "benchmark": 35.627304,
+          "performanceGap": 0.27449454987695915
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 984.35626,
+          "benchmark": -42.99038,
+          "performanceGap": 1.0436735984185237
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 10.534202,
+          "benchmark": 56.100548,
+          "performanceGap": 4.325562202053844
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 62.19,
+          "benchmark": 48.811073,
+          "performanceGap": 0.21512987618588195
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 3.44,
+          "benchmark": 1.0948215,
+          "performanceGap": 0.6817379360465117
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 0.14794132,
+          "benchmark": 0.22971423,
+          "performanceGap": 0.5527388156331173
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 6.1140156,
+          "benchmark": 22.136595,
+          "performanceGap": 2.6206310955438186
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 53687.45,
+          "benchmark": 26654.816,
+          "performanceGap": 0.5035186808090159
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 90.86325,
+          "benchmark": 49.399456,
+          "performanceGap": 0.4563318393299821
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 0.18090001,
+          "benchmark": 3.3938584,
+          "performanceGap": 17.760963031455884
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 1.5785,
+          "benchmark": 1.3314655,
+          "performanceGap": 0.15649952486537855
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 2.282425,
+          "benchmark": 3.1254506,
+          "performanceGap": 0.36935522525384196
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 1.220075,
+          "benchmark": 0.90055376,
+          "performanceGap": 0.2618865561543348
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 5.250575,
+          "benchmark": 5.19145,
+          "performanceGap": 0.011260671450269877
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 0.47215,
+          "benchmark": 19.17308,
+          "performanceGap": 39.608027110028594
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 64.07,
+          "benchmark": 62.105766,
+          "performanceGap": 0.030657624473232257
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 0.6085919,
+          "benchmark": 2.6408045,
+          "performanceGap": 3.339204153062176
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 0.84499997,
+          "benchmark": 4.867729,
+          "performanceGap": 4.760626240022233
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 35.93,
+          "benchmark": 37.894234,
+          "performanceGap": 0.05466835513498462
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 1.02,
+          "benchmark": 3.2077005,
+          "performanceGap": 2.144804411764706
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": 0.84,
+          "benchmark": 2.9636364,
+          "performanceGap": 2.528138571428572
+        },
+        {
+          "projectName": "Africa Environmental Management Health & Pollution Project",
+          "matchScore": 76,
+          "expenditures": 0.801415818,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 62399.8,
+          "benchmark": 83110.22,
+          "performanceGap": 0.3318988201885262
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 1205.5138,
+          "benchmark": 3001.2053,
+          "performanceGap": 1.4895652791365808
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 49.106873,
+          "benchmark": 35.627304,
+          "performanceGap": 0.27449454987695915
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 984.35626,
+          "benchmark": -42.99038,
+          "performanceGap": 1.0436735984185237
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 10.534202,
+          "benchmark": 56.100548,
+          "performanceGap": 4.325562202053844
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 62.19,
+          "benchmark": 48.811073,
+          "performanceGap": 0.21512987618588195
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 3.44,
+          "benchmark": 1.0948215,
+          "performanceGap": 0.6817379360465117
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 0.14794132,
+          "benchmark": 0.22971423,
+          "performanceGap": 0.5527388156331173
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 6.1140156,
+          "benchmark": 22.136595,
+          "performanceGap": 2.6206310955438186
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 53687.45,
+          "benchmark": 26654.816,
+          "performanceGap": 0.5035186808090159
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 90.86325,
+          "benchmark": 49.399456,
+          "performanceGap": 0.4563318393299821
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 0.18090001,
+          "benchmark": 3.3938584,
+          "performanceGap": 17.760963031455884
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 1.5785,
+          "benchmark": 1.3314655,
+          "performanceGap": 0.15649952486537855
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 2.282425,
+          "benchmark": 3.1254506,
+          "performanceGap": 0.36935522525384196
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 1.220075,
+          "benchmark": 0.90055376,
+          "performanceGap": 0.2618865561543348
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 5.250575,
+          "benchmark": 5.19145,
+          "performanceGap": 0.011260671450269877
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 0.47215,
+          "benchmark": 19.17308,
+          "performanceGap": 39.608027110028594
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 64.07,
+          "benchmark": 62.105766,
+          "performanceGap": 0.030657624473232257
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 0.6085919,
+          "benchmark": 2.6408045,
+          "performanceGap": 3.339204153062176
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 0.84499997,
+          "benchmark": 4.867729,
+          "performanceGap": 4.760626240022233
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 35.93,
+          "benchmark": 37.894234,
+          "performanceGap": 0.05466835513498462
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 1.02,
+          "benchmark": 3.2077005,
+          "performanceGap": 2.144804411764706
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": 0.84,
+          "benchmark": 2.9636364,
+          "performanceGap": 2.528138571428572
+        },
+        {
+          "projectName": "Environmental Health Services",
+          "matchScore": 76,
+          "expenditures": 0.350048531,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 62399.8,
+          "benchmark": 83110.22,
+          "performanceGap": 0.3318988201885262
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 1205.5138,
+          "benchmark": 3001.2053,
+          "performanceGap": 1.4895652791365808
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 49.106873,
+          "benchmark": 35.627304,
+          "performanceGap": 0.27449454987695915
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 984.35626,
+          "benchmark": -42.99038,
+          "performanceGap": 1.0436735984185237
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 10.534202,
+          "benchmark": 56.100548,
+          "performanceGap": 4.325562202053844
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 62.19,
+          "benchmark": 48.811073,
+          "performanceGap": 0.21512987618588195
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 3.44,
+          "benchmark": 1.0948215,
+          "performanceGap": 0.6817379360465117
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 0.14794132,
+          "benchmark": 0.22971423,
+          "performanceGap": 0.5527388156331173
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 6.1140156,
+          "benchmark": 22.136595,
+          "performanceGap": 2.6206310955438186
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 53687.45,
+          "benchmark": 26654.816,
+          "performanceGap": 0.5035186808090159
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 90.86325,
+          "benchmark": 49.399456,
+          "performanceGap": 0.4563318393299821
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 0.18090001,
+          "benchmark": 3.3938584,
+          "performanceGap": 17.760963031455884
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 1.5785,
+          "benchmark": 1.3314655,
+          "performanceGap": 0.15649952486537855
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 2.282425,
+          "benchmark": 3.1254506,
+          "performanceGap": 0.36935522525384196
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 1.220075,
+          "benchmark": 0.90055376,
+          "performanceGap": 0.2618865561543348
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 5.250575,
+          "benchmark": 5.19145,
+          "performanceGap": 0.011260671450269877
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 0.47215,
+          "benchmark": 19.17308,
+          "performanceGap": 39.608027110028594
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 64.07,
+          "benchmark": 62.105766,
+          "performanceGap": 0.030657624473232257
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 0.6085919,
+          "benchmark": 2.6408045,
+          "performanceGap": 3.339204153062176
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 0.84499997,
+          "benchmark": 4.867729,
+          "performanceGap": 4.760626240022233
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 35.93,
+          "benchmark": 37.894234,
+          "performanceGap": 0.05466835513498462
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 1.02,
+          "benchmark": 3.2077005,
+          "performanceGap": 2.144804411764706
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": 0.84,
+          "benchmark": 2.9636364,
+          "performanceGap": 2.528138571428572
+        },
+        {
+          "projectName": "National Environment Tribunal",
+          "matchScore": 60,
+          "expenditures": 0.457684167,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 62399.8,
+          "benchmark": 83110.22,
+          "performanceGap": 0.3318988201885262
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 1205.5138,
+          "benchmark": 3001.2053,
+          "performanceGap": 1.4895652791365808
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 49.106873,
+          "benchmark": 35.627304,
+          "performanceGap": 0.27449454987695915
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 984.35626,
+          "benchmark": -42.99038,
+          "performanceGap": 1.0436735984185237
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 10.534202,
+          "benchmark": 56.100548,
+          "performanceGap": 4.325562202053844
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 62.19,
+          "benchmark": 48.811073,
+          "performanceGap": 0.21512987618588195
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 3.44,
+          "benchmark": 1.0948215,
+          "performanceGap": 0.6817379360465117
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 0.14794132,
+          "benchmark": 0.22971423,
+          "performanceGap": 0.5527388156331173
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 6.1140156,
+          "benchmark": 22.136595,
+          "performanceGap": 2.6206310955438186
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 53687.45,
+          "benchmark": 26654.816,
+          "performanceGap": 0.5035186808090159
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 90.86325,
+          "benchmark": 49.399456,
+          "performanceGap": 0.4563318393299821
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 0.18090001,
+          "benchmark": 3.3938584,
+          "performanceGap": 17.760963031455884
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 1.5785,
+          "benchmark": 1.3314655,
+          "performanceGap": 0.15649952486537855
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 2.282425,
+          "benchmark": 3.1254506,
+          "performanceGap": 0.36935522525384196
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 1.220075,
+          "benchmark": 0.90055376,
+          "performanceGap": 0.2618865561543348
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 5.250575,
+          "benchmark": 5.19145,
+          "performanceGap": 0.011260671450269877
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 0.47215,
+          "benchmark": 19.17308,
+          "performanceGap": 39.608027110028594
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 64.07,
+          "benchmark": 62.105766,
+          "performanceGap": 0.030657624473232257
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 0.6085919,
+          "benchmark": 2.6408045,
+          "performanceGap": 3.339204153062176
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 0.84499997,
+          "benchmark": 4.867729,
+          "performanceGap": 4.760626240022233
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 35.93,
+          "benchmark": 37.894234,
+          "performanceGap": 0.05466835513498462
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 1.02,
+          "benchmark": 3.2077005,
+          "performanceGap": 2.144804411764706
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": 0.84,
+          "benchmark": 2.9636364,
+          "performanceGap": 2.528138571428572
+        },
+        {
+          "projectName": "National Environmental Complaints Committee (NECC)",
+          "matchScore": 76,
+          "expenditures": 0.284603664,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 62399.8,
+          "benchmark": 83110.22,
+          "performanceGap": 0.3318988201885262
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 1205.5138,
+          "benchmark": 3001.2053,
+          "performanceGap": 1.4895652791365808
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 49.106873,
+          "benchmark": 35.627304,
+          "performanceGap": 0.27449454987695915
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 984.35626,
+          "benchmark": -42.99038,
+          "performanceGap": 1.0436735984185237
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 10.534202,
+          "benchmark": 56.100548,
+          "performanceGap": 4.325562202053844
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 62.19,
+          "benchmark": 48.811073,
+          "performanceGap": 0.21512987618588195
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 3.44,
+          "benchmark": 1.0948215,
+          "performanceGap": 0.6817379360465117
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 0.14794132,
+          "benchmark": 0.22971423,
+          "performanceGap": 0.5527388156331173
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 6.1140156,
+          "benchmark": 22.136595,
+          "performanceGap": 2.6206310955438186
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 53687.45,
+          "benchmark": 26654.816,
+          "performanceGap": 0.5035186808090159
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 90.86325,
+          "benchmark": 49.399456,
+          "performanceGap": 0.4563318393299821
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 0.18090001,
+          "benchmark": 3.3938584,
+          "performanceGap": 17.760963031455884
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 1.5785,
+          "benchmark": 1.3314655,
+          "performanceGap": 0.15649952486537855
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 2.282425,
+          "benchmark": 3.1254506,
+          "performanceGap": 0.36935522525384196
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 1.220075,
+          "benchmark": 0.90055376,
+          "performanceGap": 0.2618865561543348
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 5.250575,
+          "benchmark": 5.19145,
+          "performanceGap": 0.011260671450269877
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 0.47215,
+          "benchmark": 19.17308,
+          "performanceGap": 39.608027110028594
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 64.07,
+          "benchmark": 62.105766,
+          "performanceGap": 0.030657624473232257
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 0.6085919,
+          "benchmark": 2.6408045,
+          "performanceGap": 3.339204153062176
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 0.84499997,
+          "benchmark": 4.867729,
+          "performanceGap": 4.760626240022233
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 35.93,
+          "benchmark": 37.894234,
+          "performanceGap": 0.05466835513498462
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 1.02,
+          "benchmark": 3.2077005,
+          "performanceGap": 2.144804411764706
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": 0.84,
+          "benchmark": 2.9636364,
+          "performanceGap": 2.528138571428572
+        },
+        {
+          "projectName": "National Environmental Trust Fund (NETFUND)",
+          "matchScore": 76,
+          "expenditures": 0.324709011,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        }
+      ],
+      "totalExpenditures": 78.67203191099976,
+      "averagePerformanceGap": 2.530950732373242
+    },
+    "Food safety": {
+      "name": "Food safety",
+      "indicators": [
+        {
+          "projectName": "Construction & equipping the Bio-safety Level 3 Laboratory at Kabete",
+          "matchScore": 71,
+          "expenditures": 0.618161521,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Construction & equipping the Bio-safety Level 3 Laboratory at Kabete",
+          "matchScore": 71,
+          "expenditures": 0.618161521,
+          "value": null,
+          "benchmark": 64.99237,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 71,
+          "expenditures": 30.67059956,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 71,
+          "expenditures": 30.67059956,
+          "value": null,
+          "benchmark": 64.99237,
+          "performanceGap": 0
+        }
+      ],
+      "totalExpenditures": 62.577522161999994,
+      "averagePerformanceGap": 0
+    },
+    "Environment and climate change": {
+      "name": "Environment and climate change",
+      "indicators": [
+        {
+          "projectName": "Construction of Centres of excellence and innovation on environment",
+          "matchScore": 67,
+          "expenditures": 0.155813863,
+          "value": 26.335,
+          "benchmark": 80.40457,
+          "performanceGap": 2.053144864249098
+        },
+        {
+          "projectName": "Construction of Centres of excellence and innovation on environment",
+          "matchScore": 67,
+          "expenditures": 0.155813863,
+          "value": 630,
+          "benchmark": 1170.6599,
+          "performanceGap": 0.8581903174603176
+        },
+        {
+          "projectName": "Construction of Centres of excellence and innovation on environment",
+          "matchScore": 67,
+          "expenditures": 0.155813863,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Construction of Centres of excellence and innovation on environment",
+          "matchScore": 67,
+          "expenditures": 0.155813863,
+          "value": 100404.32,
+          "benchmark": 220031.31,
+          "performanceGap": 1.1914526187717818
+        },
+        {
+          "projectName": "Construction of Centres of excellence and innovation on environment",
+          "matchScore": 67,
+          "expenditures": 0.155813863,
+          "value": 92830,
+          "benchmark": 226641.06,
+          "performanceGap": 1.4414635354949907
+        },
+        {
+          "projectName": "Directorate of Environment",
+          "matchScore": 61,
+          "expenditures": 1.039262018,
+          "value": 26.335,
+          "benchmark": 80.40457,
+          "performanceGap": 2.053144864249098
+        },
+        {
+          "projectName": "Directorate of Environment",
+          "matchScore": 61,
+          "expenditures": 1.039262018,
+          "value": 630,
+          "benchmark": 1170.6599,
+          "performanceGap": 0.8581903174603176
+        },
+        {
+          "projectName": "Directorate of Environment",
+          "matchScore": 61,
+          "expenditures": 1.039262018,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Directorate of Environment",
+          "matchScore": 61,
+          "expenditures": 1.039262018,
+          "value": 100404.32,
+          "benchmark": 220031.31,
+          "performanceGap": 1.1914526187717818
+        },
+        {
+          "projectName": "Directorate of Environment",
+          "matchScore": 61,
+          "expenditures": 1.039262018,
+          "value": 92830,
+          "benchmark": 226641.06,
+          "performanceGap": 1.4414635354949907
+        },
+        {
+          "projectName": "Financial Management and Procurement Services - Environment",
+          "matchScore": 67,
+          "expenditures": 0.412162787,
+          "value": 26.335,
+          "benchmark": 80.40457,
+          "performanceGap": 2.053144864249098
+        },
+        {
+          "projectName": "Financial Management and Procurement Services - Environment",
+          "matchScore": 67,
+          "expenditures": 0.412162787,
+          "value": 630,
+          "benchmark": 1170.6599,
+          "performanceGap": 0.8581903174603176
+        },
+        {
+          "projectName": "Financial Management and Procurement Services - Environment",
+          "matchScore": 67,
+          "expenditures": 0.412162787,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Financial Management and Procurement Services - Environment",
+          "matchScore": 67,
+          "expenditures": 0.412162787,
+          "value": 100404.32,
+          "benchmark": 220031.31,
+          "performanceGap": 1.1914526187717818
+        },
+        {
+          "projectName": "Financial Management and Procurement Services - Environment",
+          "matchScore": 67,
+          "expenditures": 0.412162787,
+          "value": 92830,
+          "benchmark": 226641.06,
+          "performanceGap": 1.4414635354949907
+        },
+        {
+          "projectName": "Implementation of National Climate Change Action Plan",
+          "matchScore": 64,
+          "expenditures": 0.199642003,
+          "value": 26.335,
+          "benchmark": 80.40457,
+          "performanceGap": 2.053144864249098
+        },
+        {
+          "projectName": "Implementation of National Climate Change Action Plan",
+          "matchScore": 64,
+          "expenditures": 0.199642003,
+          "value": 630,
+          "benchmark": 1170.6599,
+          "performanceGap": 0.8581903174603176
+        },
+        {
+          "projectName": "Implementation of National Climate Change Action Plan",
+          "matchScore": 64,
+          "expenditures": 0.199642003,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Implementation of National Climate Change Action Plan",
+          "matchScore": 64,
+          "expenditures": 0.199642003,
+          "value": 100404.32,
+          "benchmark": 220031.31,
+          "performanceGap": 1.1914526187717818
+        },
+        {
+          "projectName": "Implementation of National Climate Change Action Plan",
+          "matchScore": 64,
+          "expenditures": 0.199642003,
+          "value": 92830,
+          "benchmark": 226641.06,
+          "performanceGap": 1.4414635354949907
+        },
+        {
+          "projectName": "Kenya's Water Tower Protection & Climate Change (WaTER) Programme",
+          "matchScore": 64,
+          "expenditures": 0.188212056,
+          "value": 26.335,
+          "benchmark": 80.40457,
+          "performanceGap": 2.053144864249098
+        },
+        {
+          "projectName": "Kenya's Water Tower Protection & Climate Change (WaTER) Programme",
+          "matchScore": 64,
+          "expenditures": 0.188212056,
+          "value": 630,
+          "benchmark": 1170.6599,
+          "performanceGap": 0.8581903174603176
+        },
+        {
+          "projectName": "Kenya's Water Tower Protection & Climate Change (WaTER) Programme",
+          "matchScore": 64,
+          "expenditures": 0.188212056,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya's Water Tower Protection & Climate Change (WaTER) Programme",
+          "matchScore": 64,
+          "expenditures": 0.188212056,
+          "value": 100404.32,
+          "benchmark": 220031.31,
+          "performanceGap": 1.1914526187717818
+        },
+        {
+          "projectName": "Kenya's Water Tower Protection & Climate Change (WaTER) Programme",
+          "matchScore": 64,
+          "expenditures": 0.188212056,
+          "value": 92830,
+          "benchmark": 226641.06,
+          "performanceGap": 1.4414635354949907
+        },
+        {
+          "projectName": "Metropolitan Planning and Environment",
+          "matchScore": 67,
+          "expenditures": 0.04006972,
+          "value": 26.335,
+          "benchmark": 80.40457,
+          "performanceGap": 2.053144864249098
+        },
+        {
+          "projectName": "Metropolitan Planning and Environment",
+          "matchScore": 67,
+          "expenditures": 0.04006972,
+          "value": 630,
+          "benchmark": 1170.6599,
+          "performanceGap": 0.8581903174603176
+        },
+        {
+          "projectName": "Metropolitan Planning and Environment",
+          "matchScore": 67,
+          "expenditures": 0.04006972,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Metropolitan Planning and Environment",
+          "matchScore": 67,
+          "expenditures": 0.04006972,
+          "value": 100404.32,
+          "benchmark": 220031.31,
+          "performanceGap": 1.1914526187717818
+        },
+        {
+          "projectName": "Metropolitan Planning and Environment",
+          "matchScore": 67,
+          "expenditures": 0.04006972,
+          "value": 92830,
+          "benchmark": 226641.06,
+          "performanceGap": 1.4414635354949907
+        },
+        {
+          "projectName": "Rural Livelihoods Adaptation to Climate Change (RLACC)",
+          "matchScore": 64,
+          "expenditures": 0.288938438,
+          "value": 26.335,
+          "benchmark": 80.40457,
+          "performanceGap": 2.053144864249098
+        },
+        {
+          "projectName": "Rural Livelihoods Adaptation to Climate Change (RLACC)",
+          "matchScore": 64,
+          "expenditures": 0.288938438,
+          "value": 630,
+          "benchmark": 1170.6599,
+          "performanceGap": 0.8581903174603176
+        },
+        {
+          "projectName": "Rural Livelihoods Adaptation to Climate Change (RLACC)",
+          "matchScore": 64,
+          "expenditures": 0.288938438,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Rural Livelihoods Adaptation to Climate Change (RLACC)",
+          "matchScore": 64,
+          "expenditures": 0.288938438,
+          "value": 100404.32,
+          "benchmark": 220031.31,
+          "performanceGap": 1.1914526187717818
+        },
+        {
+          "projectName": "Rural Livelihoods Adaptation to Climate Change (RLACC)",
+          "matchScore": 64,
+          "expenditures": 0.288938438,
+          "value": 92830,
+          "benchmark": 226641.06,
+          "performanceGap": 1.4414635354949907
+        }
+      ],
+      "totalExpenditures": 11.620504424999995,
+      "averagePerformanceGap": 1.1088502671952376
+    },
+    "Retail and marketing": {
+      "name": "Retail and marketing",
+      "indicators": [
+        {
+          "projectName": "Cooperative Finance and Marketing",
+          "matchScore": 79,
+          "expenditures": 0.252647687,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Directorate of Quality Assurance and Marketing",
+          "matchScore": 79,
+          "expenditures": 0.392917627,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Support to Agricultural Input and Output Marketing",
+          "matchScore": 79,
+          "expenditures": 0.347666876,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        }
+      ],
+      "totalExpenditures": 0.99323219,
+      "averagePerformanceGap": 0
+    },
+    "Economic": {
+      "name": "Economic",
+      "indicators": [
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": 6,
+          "benchmark": 22.09836,
+          "performanceGap": 2.68306
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": 3940.0195,
+          "benchmark": 12248.267,
+          "performanceGap": 2.1086818225138226
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": 11.43,
+          "benchmark": 17.718033,
+          "performanceGap": 0.5501341207349081
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": 59.993317,
+          "benchmark": 403.94238,
+          "performanceGap": 5.73312295767877
+        },
+        {
+          "projectName": "Develop a Freeport & Industrial parks-Special Economic Zone Mombasa",
+          "matchScore": 100,
+          "expenditures": -0.64536665,
+          "value": 6.256659,
+          "benchmark": 6.5747,
+          "performanceGap": 0.05083240112654374
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": 6,
+          "benchmark": 22.09836,
+          "performanceGap": 2.68306
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": 3940.0195,
+          "benchmark": 12248.267,
+          "performanceGap": 2.1086818225138226
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": 11.43,
+          "benchmark": 17.718033,
+          "performanceGap": 0.5501341207349081
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": 59.993317,
+          "benchmark": 403.94238,
+          "performanceGap": 5.73312295767877
+        },
+        {
+          "projectName": "Electrification of Economic Zones",
+          "matchScore": 100,
+          "expenditures": 0.851521832,
+          "value": 6.256659,
+          "benchmark": 6.5747,
+          "performanceGap": 0.05083240112654374
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": 6,
+          "benchmark": 22.09836,
+          "performanceGap": 2.68306
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": 3940.0195,
+          "benchmark": 12248.267,
+          "performanceGap": 2.1086818225138226
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": 11.43,
+          "benchmark": 17.718033,
+          "performanceGap": 0.5501341207349081
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": 59.993317,
+          "benchmark": 403.94238,
+          "performanceGap": 5.73312295767877
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project",
+          "matchScore": 100,
+          "expenditures": 1.328176367,
+          "value": 6.256659,
+          "benchmark": 6.5747,
+          "performanceGap": 0.05083240112654374
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": 6,
+          "benchmark": 22.09836,
+          "performanceGap": 2.68306
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": 3940.0195,
+          "benchmark": 12248.267,
+          "performanceGap": 2.1086818225138226
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": 11.43,
+          "benchmark": 17.718033,
+          "performanceGap": 0.5501341207349081
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": 59.993317,
+          "benchmark": 403.94238,
+          "performanceGap": 5.73312295767877
+        },
+        {
+          "projectName": "Kenya Marine Fisheries & Socio-Economic Development Project - BETA",
+          "matchScore": 100,
+          "expenditures": 4.388256909,
+          "value": 6.256659,
+          "benchmark": 6.5747,
+          "performanceGap": 0.05083240112654374
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": 6,
+          "benchmark": 22.09836,
+          "performanceGap": 2.68306
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": 3940.0195,
+          "benchmark": 12248.267,
+          "performanceGap": 2.1086818225138226
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": 11.43,
+          "benchmark": 17.718033,
+          "performanceGap": 0.5501341207349081
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": 59.993317,
+          "benchmark": 403.94238,
+          "performanceGap": 5.73312295767877
+        },
+        {
+          "projectName": "Kenya Social and Economic Inclusion Project",
+          "matchScore": 100,
+          "expenditures": 3.419409631,
+          "value": 6.256659,
+          "benchmark": 6.5747,
+          "performanceGap": 0.05083240112654374
+        }
+      ],
+      "totalExpenditures": 112.10397706799992,
+      "averagePerformanceGap": 0.9271526085045034
+    },
+    "Resilience": {
+      "name": "Resilience",
+      "indicators": [
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of A",
+          "matchScore": 100,
+          "expenditures": 2.904934204,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Drought Resilience and Sustainable Livelihood Programme in Horn of Af",
+          "matchScore": 100,
+          "expenditures": 4.065190862,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Drought Resilience in Northern Kenya",
+          "matchScore": 100,
+          "expenditures": 0.446121767,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Enhancing Community Resilience Against Drought (ECORAD II)",
+          "matchScore": 100,
+          "expenditures": 0.148238534,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Regional Pastoral Livelihood Resilience project",
+          "matchScore": 100,
+          "expenditures": 4.567481708,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Resilience and Sustainable Food Systems Programme",
+          "matchScore": 100,
+          "expenditures": 0.229818923,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Spate Irrigation for Climate Resilience in Samburu, Marsabit & Isiolo",
+          "matchScore": 100,
+          "expenditures": 1.389796618,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Strengthening Drought Resilience for Farmers & Pastoralists In IGAD",
+          "matchScore": 100,
+          "expenditures": 0.014603874,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Sustainable Food Systems and Resilience Livelihood Activities",
+          "matchScore": 100,
+          "expenditures": 0.079649758,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 100,
+          "expenditures": 3.066760839,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 0.7782255,
+          "benchmark": 0.72167885,
+          "performanceGap": 0.07266100892350615
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 0.73173016,
+          "benchmark": 0.7655175,
+          "performanceGap": 0.04617458982420506
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 111.77137,
+          "benchmark": 106.29662,
+          "performanceGap": 0.04898168466576011
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 0,
+          "benchmark": 2.7619486,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 51309.5,
+          "benchmark": 41916.18,
+          "performanceGap": 0.18307175084536
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 0.31671298,
+          "benchmark": 0.3877903,
+          "performanceGap": 0.22442187244741282
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 30.6862,
+          "benchmark": 43.054363,
+          "performanceGap": 0.4030529358473843
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 0.15402226,
+          "benchmark": 0.485818,
+          "performanceGap": 2.1542064114628627
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 100,
+          "expenditures": 1.13863637,
+          "value": 0.33948606,
+          "benchmark": 0.43231088,
+          "performanceGap": 0.2734274862419978
+        }
+      ],
+      "totalExpenditures": 180.51233456999978,
+      "averagePerformanceGap": 0.34059977402584907
+    },
+    "Food security": {
+      "name": "Food security",
+      "indicators": [
+        {
+          "projectName": "Food Security - BETA",
+          "matchScore": 100,
+          "expenditures": 0.425228688,
+          "value": 23.8,
+          "benchmark": 8.960125,
+          "performanceGap": 0.6235241596638655
+        },
+        {
+          "projectName": "Food Security - BETA",
+          "matchScore": 100,
+          "expenditures": 0.425228688,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Food Security and Crop Diversification Project",
+          "matchScore": 100,
+          "expenditures": 7.652216254,
+          "value": 23.8,
+          "benchmark": 8.960125,
+          "performanceGap": 0.6235241596638655
+        },
+        {
+          "projectName": "Food Security and Crop Diversification Project",
+          "matchScore": 100,
+          "expenditures": 7.652216254,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Food Security and Crop Diversification Project-BETA",
+          "matchScore": 100,
+          "expenditures": 4.635582255,
+          "value": 23.8,
+          "benchmark": 8.960125,
+          "performanceGap": 0.6235241596638655
+        },
+        {
+          "projectName": "Food Security and Crop Diversification Project-BETA",
+          "matchScore": 100,
+          "expenditures": 4.635582255,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Irrigation Projects for Food Security",
+          "matchScore": 100,
+          "expenditures": 1.781684449,
+          "value": 23.8,
+          "benchmark": 8.960125,
+          "performanceGap": 0.6235241596638655
+        },
+        {
+          "projectName": "Irrigation Projects for Food Security",
+          "matchScore": 100,
+          "expenditures": 1.781684449,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 100,
+          "expenditures": 88.62140495,
+          "value": 23.8,
+          "benchmark": 8.960125,
+          "performanceGap": 0.6235241596638655
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 100,
+          "expenditures": 88.62140495,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 76,
+          "expenditures": 1.13863637,
+          "value": 23.8,
+          "benchmark": 8.960125,
+          "performanceGap": 0.6235241596638655
+        },
+        {
+          "projectName": "Water Security and Climate Adaptation in Mandera and Wajir Clusters",
+          "matchScore": 76,
+          "expenditures": 1.13863637,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 76,
+          "expenditures": 3.066760839,
+          "value": 23.8,
+          "benchmark": 8.960125,
+          "performanceGap": 0.6235241596638655
+        },
+        {
+          "projectName": "Water Security and Climate Resilience (Project Advanced)",
+          "matchScore": 76,
+          "expenditures": 3.066760839,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 100,
+          "expenditures": 88.62140495,
+          "value": 23.8,
+          "benchmark": 8.960125,
+          "performanceGap": 0.6235241596638655
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 100,
+          "expenditures": 88.62140495,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        }
+      ],
+      "totalExpenditures": 391.88583751000004,
+      "averagePerformanceGap": 0.31176207983193277
+    },
+    "Processing and packaging": {
+      "name": "Processing and packaging",
+      "indicators": [
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": 60.17456,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": 85.5,
+          "benchmark": 79.03358,
+          "performanceGap": 0.07563064327485379
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": 88.99765,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": 56.43093,
+          "benchmark": 24.728544,
+          "performanceGap": 0.5617909540034162
+        },
+        {
+          "projectName": "Integrated Fruit and Honey Processing",
+          "matchScore": 74,
+          "expenditures": 0.924476184,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        }
+      ],
+      "totalExpenditures": 11.093714207999996,
+      "averagePerformanceGap": 0.05311846643985583
+    },
+    "Livelihoods, Poverty, and Equity": {
+      "name": "Livelihoods, Poverty, and Equity",
+      "indicators": [
+        {
+          "projectName": "Integrated Response and Recovery of Livelihoods Affected by Crises",
+          "matchScore": 67,
+          "expenditures": 0.82883393,
+          "value": null,
+          "benchmark": 2.5275002,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Response and Recovery of Livelihoods Affected by Crises",
+          "matchScore": 67,
+          "expenditures": 0.82883393,
+          "value": 18.762,
+          "benchmark": 10.667903,
+          "performanceGap": 0.43140907152755564
+        },
+        {
+          "projectName": "Integrated Response and Recovery of Livelihoods Affected by Crises",
+          "matchScore": 67,
+          "expenditures": 0.82883393,
+          "value": 21.556332,
+          "benchmark": 11.015262,
+          "performanceGap": 0.4890010972182095
+        },
+        {
+          "projectName": "Integrated Response and Recovery of Livelihoods Affected by Crises",
+          "matchScore": 67,
+          "expenditures": 0.82883393,
+          "value": null,
+          "benchmark": 29.74308,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Response and Recovery of Livelihoods Affected by Crises",
+          "matchScore": 67,
+          "expenditures": 0.82883393,
+          "value": null,
+          "benchmark": 59.26499,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Integrated Response and Recovery of Livelihoods Affected by Crises",
+          "matchScore": 67,
+          "expenditures": 0.82883393,
+          "value": 5.8,
+          "benchmark": 4.9184833,
+          "performanceGap": 0.15198563793103445
+        },
+        {
+          "projectName": "Integrated Response and Recovery of Livelihoods Affected by Crises",
+          "matchScore": 67,
+          "expenditures": 0.82883393,
+          "value": 4.9960003,
+          "benchmark": 7.828033,
+          "performanceGap": 0.566859993983587
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 100,
+          "expenditures": 1.014497396,
+          "value": null,
+          "benchmark": 2.5275002,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 100,
+          "expenditures": 1.014497396,
+          "value": 18.762,
+          "benchmark": 10.667903,
+          "performanceGap": 0.43140907152755564
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 100,
+          "expenditures": 1.014497396,
+          "value": 21.556332,
+          "benchmark": 11.015262,
+          "performanceGap": 0.4890010972182095
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 100,
+          "expenditures": 1.014497396,
+          "value": null,
+          "benchmark": 29.74308,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 100,
+          "expenditures": 1.014497396,
+          "value": null,
+          "benchmark": 59.26499,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 100,
+          "expenditures": 1.014497396,
+          "value": 5.8,
+          "benchmark": 4.9184833,
+          "performanceGap": 0.15198563793103445
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 100,
+          "expenditures": 1.014497396,
+          "value": 4.9960003,
+          "benchmark": 7.828033,
+          "performanceGap": 0.566859993983587
+        }
+      ],
+      "totalExpenditures": 12.903319281999998,
+      "averagePerformanceGap": 0.23417940009434093
+    },
+    "Production systems and input supply": {
+      "name": "Production systems and input supply",
+      "indicators": [
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 2047.6052,
+          "benchmark": 15573.287,
+          "performanceGap": 6.605610202591789
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 107.275,
+          "benchmark": 200.95383,
+          "performanceGap": 0.8732587275693312
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 0.16697249,
+          "benchmark": 0.3713575,
+          "performanceGap": 1.224063976047791
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 14022.75,
+          "benchmark": 13641.924,
+          "performanceGap": 0.02715772583836973
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 0.9043875,
+          "benchmark": 1.3494737,
+          "performanceGap": 0.4921410346781663
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 8482,
+          "benchmark": 30080.97,
+          "performanceGap": 2.5464477717519456
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 64.306625,
+          "benchmark": 63.117077,
+          "performanceGap": 0.01849806299117696
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 5.4259,
+          "benchmark": 13.39437,
+          "performanceGap": 1.4685987578097641
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 47460.25,
+          "benchmark": 93685.01,
+          "performanceGap": 0.9739678994526998
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 51.739014,
+          "benchmark": 164.86624,
+          "performanceGap": 2.18649752389947
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 1.6931674,
+          "benchmark": 1.1682745,
+          "performanceGap": 0.31000650024327187
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 3.1272402,
+          "benchmark": 21.7303,
+          "performanceGap": 5.948714716573418
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 531.25,
+          "benchmark": 659.2645,
+          "performanceGap": 0.24096847058823528
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 0.06813,
+          "benchmark": 0.1510868,
+          "performanceGap": 1.217625128430941
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 1.1092451,
+          "benchmark": 1.7649211,
+          "performanceGap": 0.5911011011001985
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 33.690666,
+          "benchmark": 23.623917,
+          "performanceGap": 0.2987993469764
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 40.6,
+          "benchmark": 86.351364,
+          "performanceGap": 1.1268808866995075
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 0.13339001,
+          "benchmark": 0.25986707,
+          "performanceGap": 0.9481749045524471
+        },
+        {
+          "projectName": "Kaptumo Water Supply Project",
+          "matchScore": 60,
+          "expenditures": 0.038427096,
+          "value": 1.5850999,
+          "benchmark": 1.8138446,
+          "performanceGap": 0.14430932712821445
+        }
+      ],
+      "totalExpenditures": 1.4602296479999999,
+      "averagePerformanceGap": 0.7169163701295563
+    },
+    "Storage and distribution": {
+      "name": "Storage and distribution",
+      "indicators": [
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 2.2174685,
+          "benchmark": 3.7695398,
+          "performanceGap": 0.6999293563809363
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 48.9,
+          "benchmark": 54.907303,
+          "performanceGap": 0.12284873210633948
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 8.873863,
+          "benchmark": 9.169244,
+          "performanceGap": 0.03328663063651093
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 27.75625,
+          "benchmark": 61.22513,
+          "performanceGap": 1.2058141859941454
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 11.987129,
+          "benchmark": 4.0619955,
+          "performanceGap": 0.6611369161039311
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 0.001657554,
+          "benchmark": 0.007206078,
+          "performanceGap": 3.3474167357443556
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 8.218157,
+          "benchmark": 7.079936,
+          "performanceGap": 0.138500761180396
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 24.5,
+          "benchmark": 48.44801,
+          "performanceGap": 0.9774697959183672
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 6.930465,
+          "benchmark": 5.1389437,
+          "performanceGap": 0.25849943690647026
+        },
+        {
+          "projectName": "Nairobi Water Distribution Network",
+          "matchScore": 69,
+          "expenditures": 1.014497396,
+          "value": 8.481014,
+          "benchmark": 7.3260126,
+          "performanceGap": 0.1361867106928487
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 2.2174685,
+          "benchmark": 3.7695398,
+          "performanceGap": 0.6999293563809363
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 48.9,
+          "benchmark": 54.907303,
+          "performanceGap": 0.12284873210633948
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 8.873863,
+          "benchmark": 9.169244,
+          "performanceGap": 0.03328663063651093
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 27.75625,
+          "benchmark": 61.22513,
+          "performanceGap": 1.2058141859941454
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 11.987129,
+          "benchmark": 4.0619955,
+          "performanceGap": 0.6611369161039311
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 0.001657554,
+          "benchmark": 0.007206078,
+          "performanceGap": 3.3474167357443556
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 8.218157,
+          "benchmark": 7.079936,
+          "performanceGap": 0.138500761180396
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 24.5,
+          "benchmark": 48.44801,
+          "performanceGap": 0.9774697959183672
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 6.930465,
+          "benchmark": 5.1389437,
+          "performanceGap": 0.25849943690647026
+        },
+        {
+          "projectName": "Water Storage and Flood Control Services",
+          "matchScore": 63,
+          "expenditures": 0.162936922,
+          "value": 8.481014,
+          "benchmark": 7.3260126,
+          "performanceGap": 0.1361867106928487
+        }
+      ],
+      "totalExpenditures": 11.77434318,
+      "averagePerformanceGap": 0.75810892616643
+    },
+    "Food availability": {
+      "name": "Food availability",
+      "indicators": [
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 374.35617,
+          "benchmark": 418.57788,
+          "performanceGap": 0.11812737051989812
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 4.342466,
+          "benchmark": 20.96197,
+          "performanceGap": 3.827204173849605
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 8.267123,
+          "benchmark": 52.05831,
+          "performanceGap": 5.297028603542007
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 169.0822,
+          "benchmark": 252.95282,
+          "performanceGap": 0.4960345914590655
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 329.637,
+          "benchmark": 528.67267,
+          "performanceGap": 0.6038025767738453
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 34.732876,
+          "benchmark": 142.8432,
+          "performanceGap": 3.112622289038201
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 49.21233,
+          "benchmark": 17.413548,
+          "performanceGap": 0.6461547746266028
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 173.0548,
+          "benchmark": 211.02556,
+          "performanceGap": 0.2194146594026864
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 1.4931507,
+          "benchmark": 12.172429,
+          "performanceGap": 7.152177137913809
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 22.931507,
+          "benchmark": 35.075253,
+          "performanceGap": 0.5295659809885149
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 160.5548,
+          "benchmark": 275.71985,
+          "performanceGap": 0.7172943443609285
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 57.666668,
+          "benchmark": 88.20132,
+          "performanceGap": 0.529502623595315
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 2243,
+          "benchmark": 2916.595,
+          "performanceGap": 0.3003098528756129
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Food Security",
+          "matchScore": 62,
+          "expenditures": 88.62140495,
+          "value": 53.333332,
+          "benchmark": 44.770153,
+          "performanceGap": 0.16055961026399024
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 374.35617,
+          "benchmark": 418.57788,
+          "performanceGap": 0.11812737051989812
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 4.342466,
+          "benchmark": 20.96197,
+          "performanceGap": 3.827204173849605
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 8.267123,
+          "benchmark": 52.05831,
+          "performanceGap": 5.297028603542007
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 169.0822,
+          "benchmark": 252.95282,
+          "performanceGap": 0.4960345914590655
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 329.637,
+          "benchmark": 528.67267,
+          "performanceGap": 0.6038025767738453
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 34.732876,
+          "benchmark": 142.8432,
+          "performanceGap": 3.112622289038201
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 49.21233,
+          "benchmark": 17.413548,
+          "performanceGap": 0.6461547746266028
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 173.0548,
+          "benchmark": 211.02556,
+          "performanceGap": 0.2194146594026864
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 1.4931507,
+          "benchmark": 12.172429,
+          "performanceGap": 7.152177137913809
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 22.931507,
+          "benchmark": 35.075253,
+          "performanceGap": 0.5295659809885149
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 160.5548,
+          "benchmark": 275.71985,
+          "performanceGap": 0.7172943443609285
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 57.666668,
+          "benchmark": 88.20132,
+          "performanceGap": 0.529502623595315
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 2243,
+          "benchmark": 2916.595,
+          "performanceGap": 0.3003098528756129
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Kenya Hunger Safety Net Programme",
+          "matchScore": 100,
+          "expenditures": 30.67059956,
+          "value": 53.333332,
+          "benchmark": 44.770153,
+          "performanceGap": 0.16055961026399024
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 374.35617,
+          "benchmark": 418.57788,
+          "performanceGap": 0.11812737051989812
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 4.342466,
+          "benchmark": 20.96197,
+          "performanceGap": 3.827204173849605
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 8.267123,
+          "benchmark": 52.05831,
+          "performanceGap": 5.297028603542007
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 169.0822,
+          "benchmark": 252.95282,
+          "performanceGap": 0.4960345914590655
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 329.637,
+          "benchmark": 528.67267,
+          "performanceGap": 0.6038025767738453
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 34.732876,
+          "benchmark": 142.8432,
+          "performanceGap": 3.112622289038201
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 49.21233,
+          "benchmark": 17.413548,
+          "performanceGap": 0.6461547746266028
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 173.0548,
+          "benchmark": 211.02556,
+          "performanceGap": 0.2194146594026864
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 1.4931507,
+          "benchmark": 12.172429,
+          "performanceGap": 7.152177137913809
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 22.931507,
+          "benchmark": 35.075253,
+          "performanceGap": 0.5295659809885149
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 160.5548,
+          "benchmark": 275.71985,
+          "performanceGap": 0.7172943443609285
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 57.666668,
+          "benchmark": 88.20132,
+          "performanceGap": 0.529502623595315
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 2243,
+          "benchmark": 2916.595,
+          "performanceGap": 0.3003098528756129
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 100,
+          "expenditures": 6.093806337,
+          "value": 53.333332,
+          "benchmark": 44.770153,
+          "performanceGap": 0.16055961026399024
+        }
+      ],
+      "totalExpenditures": 2006.172973551999,
+      "averagePerformanceGap": 1.4818624118256298
+    },
+    "Population growth and migration": {
+      "name": "Population growth and migration",
+      "indicators": [
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 61,
+          "expenditures": 6.093806337,
+          "value": 1.9642595,
+          "benchmark": 1.0049458,
+          "performanceGap": 0.48838440134819255
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 61,
+          "expenditures": 6.093806337,
+          "value": 1050147,
+          "benchmark": 1228518.8,
+          "performanceGap": 0.169854125184379
+        },
+        {
+          "projectName": "National Irrigation Board",
+          "matchScore": 61,
+          "expenditures": 6.093806337,
+          "value": 51711610,
+          "benchmark": 36385456,
+          "performanceGap": 0.2963774285890538
+        }
+      ],
+      "totalExpenditures": 18.281419011,
+      "averagePerformanceGap": 0.3182053183738751
+    },
+    "Nutritional status": {
+      "name": "Nutritional status",
+      "indicators": [
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": 31.692501,
+          "benchmark": 51.233925,
+          "performanceGap": 0.6165945691695331
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": 12.33,
+          "benchmark": 5.828624,
+          "performanceGap": 0.5272811030008111
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": 28.55,
+          "benchmark": 27.151026,
+          "performanceGap": 0.049000840630472824
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": null,
+          "benchmark": null,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": null,
+          "benchmark": 71.04348,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": 2.4025002,
+          "benchmark": 10.424381,
+          "performanceGap": 3.3389719592947382
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": null,
+          "benchmark": 5.110048,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": 9.9275,
+          "benchmark": 25.246466,
+          "performanceGap": 1.5430839587005794
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": null,
+          "benchmark": 1.0711774,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": null,
+          "benchmark": 21.74342,
+          "performanceGap": 0
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": 8.7725,
+          "benchmark": 5.958699,
+          "performanceGap": 0.32075246508976923
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": 8.3625,
+          "benchmark": 5.044154,
+          "performanceGap": 0.3968126756352766
+        },
+        {
+          "projectName": "Nutrition",
+          "matchScore": 67,
+          "expenditures": 0.649706686,
+          "value": null,
+          "benchmark": 5.22151,
+          "performanceGap": 0
+        }
+      ],
+      "totalExpenditures": 8.446186918,
+      "averagePerformanceGap": 0.522499813193937
+    }
+  },
+  "totalBudget": 2908.497625634996
+}
