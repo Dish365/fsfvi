@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import { DashboardLayout } from "@/components/commodity-layout";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { VulnerabilityMetricCard } from "@/components/vulnerability-metric-card";
 import { ValueChainComponentTable } from "@/components/value-chain-component-table";
@@ -34,7 +33,6 @@ export default function GovernmentDashboard() {
   };
   
   return (
-    <DashboardLayout>
       <div className="space-y-6">
         <div>
           <h1 className="text-3xl font-bold tracking-tight">Government Dashboard</h1>
@@ -159,6 +157,5 @@ export default function GovernmentDashboard() {
           </TabsContent>
         </Tabs>
       </div>
-    </DashboardLayout>
   );
 } 

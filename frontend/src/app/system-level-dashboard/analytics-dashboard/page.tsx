@@ -6,8 +6,7 @@ import {
   CardContent, 
   CardHeader, 
   CardTitle,
-  CardDescription,
-  CardFooter
+  CardDescription
 } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { 
@@ -34,14 +33,8 @@ import {
   LineChart,
   Line
 } from 'recharts';
-import {
-  Tooltip,
-  TooltipContent,
-  TooltipProvider,
-  TooltipTrigger,
-} from "@/components/ui/tooltip";
 import { Button } from "@/components/ui/button";
-import { HelpCircle, Download, RefreshCw, Filter } from "lucide-react";
+import { Download, RefreshCw } from "lucide-react";
 import kenyaData from "@/data/kenya_fsfvi_optimized.json";
 
 // Type for Kenya FSFVI Data

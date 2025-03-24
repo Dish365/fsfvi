@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState, useEffect } from "react";
-import { DashboardLayout } from "@/components/commodity-layout";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Slider } from "@/components/ui/slider";
 import { VulnerabilityMetricCard } from "@/components/vulnerability-metric-card";
@@ -123,10 +122,9 @@ export default function OptimizationPage() {
   const improvementPercentage = (vulnerabilityImprovement / currentVulnerability) * 100;
 
   return (
-    <DashboardLayout>
-      <div className="space-y-6">
-        <div>
-          <h1 className="text-3xl font-bold tracking-tight">Resource Optimization</h1>
+    <div className="space-y-6">
+      <div>
+        <h1 className="text-3xl font-bold tracking-tight">Resource Optimization</h1>
           <p className="mt-2 text-slate-600">
             Optimize resource allocation to minimize system vulnerability
           </p>
@@ -225,6 +223,5 @@ export default function OptimizationPage() {
           </CardContent>
         </Card>
       </div>
-    </DashboardLayout>
   );
 } 

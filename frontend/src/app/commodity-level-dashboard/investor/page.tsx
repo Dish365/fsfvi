@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState } from "react";
-import { DashboardLayout } from "@/components/commodity-layout";
 import { VulnerabilityMetricCard } from "@/components/vulnerability-metric-card";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -105,10 +104,9 @@ export default function InvestorInterface() {
   };
 
   return (
-    <DashboardLayout>
-      <div className="space-y-6">
-        <div>
-          <h1 className="text-3xl font-bold tracking-tight">Investor Interface</h1>
+    <div className="space-y-6">
+      <div>
+        <h1 className="text-3xl font-bold tracking-tight">Investor Interface</h1>
           <p className="mt-2 text-slate-600">
             Investment analysis and risk assessment for Ghana's cocoa value chain
           </p>
@@ -489,6 +487,5 @@ export default function InvestorInterface() {
           </TabsContent>
         </Tabs>
       </div>
-    </DashboardLayout>
   );
 } 

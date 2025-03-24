@@ -1,5 +1,6 @@
 import { FSFVIData, FSFVIComponent, Indicator } from './fsfvi-algorithms';
 import { FSFVISubsector } from './csv-processor';
+import { computeFSFVI, optimizeResourceAllocation, calculateEfficiencyMetrics } from './fsfvi-algorithms';
 
 /**
  * Adapter to convert the CSV-processed data to the format required by FSFVI algorithms
@@ -67,9 +68,6 @@ export async function loadKenyaFSFVIData(): Promise<FSFVIData> {
  * @returns Computed metrics for dashboard
  */
 export function computeDashboardMetrics(data: FSFVIData) {
-  // Import required functions from algorithms
-  const { computeFSFVI, optimizeResourceAllocation, calculateEfficiencyMetrics } = require('./fsfvi-algorithms');
-  
   // Calculate FSFVI
   const { fsfviValue, processedData } = computeFSFVI(data);
   

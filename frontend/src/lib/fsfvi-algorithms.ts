@@ -732,7 +732,7 @@ export function optimizeResourceAllocation(data: FSFVIData): {
   });
   
   // Initialize with current allocations
-  let currentAllocations: Record<string, number> = {...originalAllocations};
+  const currentAllocations: Record<string, number> = {...originalAllocations};
   
   // Optimization parameters
   const maxIterations = 100;
@@ -804,8 +804,8 @@ export function optimizeResourceAllocation(data: FSFVIData): {
     });
     
     // Redistribute any excess to maintain budget constraint
-    let currentTotal = Object.values(currentAllocations).reduce((sum, val) => sum + val, 0);
-    let remainingBudget = totalBudget - currentTotal;
+    const currentTotal = Object.values(currentAllocations).reduce((sum, val) => sum + val, 0);
+    const remainingBudget = totalBudget - currentTotal;
     
     if (Math.abs(remainingBudget) > 0.001) { // If budget doesn't match within tolerance
       // Distribute remainder proportionally among components not at min/max
